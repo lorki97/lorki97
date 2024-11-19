@@ -1,4 +1,4 @@
-## Hi there 👋
+![Hey! I am Markus / Fullstack Dev](assets/github-header-image.png)
 
 <!--
 **lorki97/lorki97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
